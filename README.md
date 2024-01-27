@@ -1,6 +1,5 @@
 # Diseño-aplicaciones-web
-![image](<img width="178" alt="image" src="https://github.com/Maricarmen25/Dise-o-aplicaciones-web/assets/157861060/8d36ce86-e935-4f7f-a7ce-740bde86e969">
-)
+![image](https://www.fimpes.org.mx/images/universidades/logo_tecmilenio.png)
 
 Nombre:
 María del Carmen Pedro Florentino	
