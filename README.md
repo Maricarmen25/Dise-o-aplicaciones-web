@@ -12,8 +12,6 @@
 #### 27 Enero 2024
 
 
-git commit -m "Agrega funcionalidad de inicio de sesión"
-
 
 
 
